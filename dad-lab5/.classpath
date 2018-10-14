@@ -6,9 +6,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/zarf/eclipse-workspace/dad-lab5/apache-httpcomponents-httpclient.jar"/>
-	<classpathentry kind="lib" path="C:/Users/zarf/eclipse-workspace/dad-lab5/apache-httpcomponents-httpcore.jar"/>
-	<classpathentry kind="lib" path="C:/Users/zarf/eclipse-workspace/dad-lab5/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/zarf/eclipse-workspace/dad-lab5/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zarf/git/repository/dad-lab5/apache-httpcomponents-httpclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zarf/git/repository/dad-lab5/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zarf/git/repository/dad-lab5/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zarf/git/repository/dad-lab5/java-json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
